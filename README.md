@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Vitor Melo
 
-<!--
-**JoaoVitorMeloDev/JoaoVitorMeloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🌎 Recife, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou um desenvolvedor focado em construir sistemas práticos e soluções de software.
+
+Tenho interesse principalmente em:
+
+- Desenvolvimento backend
+- APIs
+- Automação
+- Sistemas e arquitetura de software
+
+---
+
+## 🧠 Tecnologias
+
+**Linguagens**
+
+- Python
+- Java
+- JavaScript
+
+**Web**
+
+- HTML
+- CSS
+
+**Banco de dados**
+
+- MySQL
+
+**Ferramentas**
+
+- Git
+- Linux
+
+---
+
+## 📂 Projetos
+
+🔹 **1**  
+
+
+🔹 **2**  
+
+
+🔹 **3**  
+
+
+---
+
+## 📚 Atualmente estudando
+
+- Backend e APIs
+- DevOps
+- Docker
+- Arquitetura de sistemas
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/joaovitormelol/   
+Email: joaovitorlbgm@gmail.com
