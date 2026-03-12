@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Vitor Melo
+# 👋 Olá, Sou João Vitor Melo
 
 💻 Desenvolvedor em formação  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
