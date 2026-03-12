@@ -45,7 +45,10 @@ Tenho interesse principalmente em:
 
 ## 📂 Projetos
 
-🔹 **Gerenciamento de Estoque Saas**  
+🔹 **Inventory Management API**
+API REST para gerenciamento de estoque desenvolvida com Spring Boot, MySQL e Docker.
+
+O sistema permite cadastrar, atualizar, listar e remover produtos de um inventário, fornecendo uma estrutura simples e escalável para aplicações de controle de estoque.
 
 
 🔹 **2**  
